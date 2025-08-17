@@ -221,10 +221,7 @@ Este proyecto es parte de un taller académico para el curso de Desarrollo de Ap
 
 ## 👥 Equipo de Desarrollo
 
-- **Grupo 1**
-- Curso: Desarrollo de Aplicaciones Móviles
-- Período: Octubre 2024 - Marzo 2025
-- Parcial: Segundo
+- **EdJGM**
 
 ## 📞 Soporte
 
